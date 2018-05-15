@@ -1,4 +1,4 @@
-package com.mkyong.aspect;
+package com.test.aop.aspect;
 
 import java.util.Arrays;
 

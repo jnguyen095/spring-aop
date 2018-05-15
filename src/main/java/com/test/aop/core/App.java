@@ -1,9 +1,8 @@
-package com.mkyong.core;
+package com.test.aop.core;
 
+import com.test.aop.customer.bo.CustomerBo;
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.support.ClassPathXmlApplicationContext;
-
-import com.mkyong.customer.bo.CustomerBo;
 
 public class App {
 	public static void main(String[] args) throws Exception {

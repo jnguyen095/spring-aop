@@ -1,4 +1,4 @@
-package com.mkyong.customer.bo;
+package com.test.aop.customer.bo;
 
 public interface CustomerBo {
 
